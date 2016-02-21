@@ -1,4 +1,4 @@
-de.bsvrz.sys.funclib.filelock v${project.version} [![Build Status](https://travis-ci.org/datenverteiler/de.bsvrz.sys.funclib.filelock.svg?branch=master)](https://travis-ci.org/datenverteiler/de.bsvrz.sys.funclib.filelock)
+de.bsvrz.sys.funclib.filelock v${project.version} [![Build Status](https://travis-ci.org/datenverteiler/de.bsvrz.sys.funclib.filelock.svg?branch=develop)](https://travis-ci.org/datenverteiler/de.bsvrz.sys.funclib.filelock)
 ====================================
 
 
